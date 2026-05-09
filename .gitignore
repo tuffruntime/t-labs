@@ -1,0 +1,22 @@
+# PYTEST
+.pytest_cache/ 
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+dist/
+build/
+*.egg
+*.log
+*.coverage
+.coverage.*
+htmlcov/
+
+# ENV
+.env
+.venv/
+venv/
+env/
+ENV/
